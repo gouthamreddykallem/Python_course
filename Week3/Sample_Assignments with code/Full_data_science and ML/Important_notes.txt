@@ -1,0 +1,8 @@
+Students who are doing a course project
+
+Research questions : State research questions you want to answer with your data and why these questions are of interest or are important to answer. State any hypotheses you have about what you expect to find and why.
+Motivation and background of your research questions : Explain your motivation for your research questions and why they are worth analysis. Briefly describe what research has been done before on this question.
+Dataset : Explain the data set you use for your project (ex : source and information about the dataset). Describe all variables in your dataset (ex: level of measurement, qualitative or quantitative, unit of measurement, etc.)
+Data Analysis: Statistical or Machine Learning Analysis with appropriate Exploratory Data Analysis are required. State what methods you use for your data analysis and why you use them. You also must provide programming codes for your analysis with appropriate comments and explanation. Present all outputs, tables, plots, and calculations with appropriate interpretation and comprehensive explanation. 
+Results and Conclusions : Present, interpret and discuss your analysis results and answers for your research questions. Make conclusions about your research questions and implications if any. Evaluate the strengths and weaknesses of your project. Discuss the limitations of your project and the direction of your future projects, etc.
+References : Cite any sources or information you used for your project
